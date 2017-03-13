@@ -1,11 +1,16 @@
 _repo: The-Circus-Boys-on-the-Plains-Or-The-Young-Advance-Agents-Ahead-of-the-Show_2478
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darlington, Edgar B. P.
     gutenberg_agent_id: '928'
     url: http://www.gutenberg.org/2009/agents/928
 description: Circus boys series
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2478#The-Circus-Boys-on-the-Plains-Or-The-Young-Advance-Agents-Ahead-of-the-Show
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
 identifiers:
