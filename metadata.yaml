@@ -1,5 +1,5 @@
 _repo: The-Circus-Boys-on-the-Plains-Or-The-Young-Advance-Agents-Ahead-of-the-Show_2478
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcc 'PZ'
 - !lcc 'PS'
 - !lcsh 'Adventure stories'
+- GITenberg
 title: The Circus Boys on the Plains; Or, The Young Advance Agents Ahead of the Show
 url: http://www.gutenberg.org/ebooks/2478
